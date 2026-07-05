@@ -1,0 +1,4 @@
+
+# notebooks scratch 目录不纳入版本管理
+notebooks/scratch/*
+!notebooks/scratch/.gitkeep
